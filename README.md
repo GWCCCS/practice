@@ -2,7 +2,7 @@
 
 ## There are multiple aspects to practice and so there will be three separate of lists activities.
 
-*You can pick what you feel like doing that day.*
+### *You can pick what you feel like doing that day.*
 
 1) [Coding](coding.md) - Often shorter coding practice opportunities
 2) [Programming\Problem Solving](programming.md) - Somewhat longer problem solving, programming, and even system design activities.
