@@ -21,3 +21,15 @@ Even people that have completed all of these courses can benefit from practicing
 - [ ] [Array-2](https://codingbat.com/java/Array-2)
 - [ ] [Array-3](https://codingbat.com/java/Array-3)
 - [ ] [Advanced Placement 1](https://codingbat.com/java/AP-1)
+
+
+### CSAwesome.com
+- [ ] [Logic and if Practice](https://runestone.academy/ns/books/published/csawesome/Unit3-If-Statements/topic-3-10-practice-coding.html)
+- [ ] [Loop Practice](https://runestone.academy/ns/books/published/csawesome/Unit4-Iteration/topic-4-8-practice-coding.html)
+- [ ] [Class Creation Practice](https://runestone.academy/ns/books/published/csawesome/Unit5-Writing-Classes/topic-toggle-problems.html)
+- [ ] [Arrays](https://runestone.academy/ns/books/published/csawesome/Unit6-Arrays/ArrayPractice.html)
+- [ ] [Arrays part 2](https://runestone.academy/ns/books/published/csawesome/Unit6-Arrays/MoreArrayPractice.html)
+- [ ] [ArrayLists](https://runestone.academy/ns/books/published/csawesome/Unit7-ArrayList/listPractice.html)
+- [ ] [Test Yourself on the Basics](https://runestone.academy/ns/books/published/csawesome/Unit5-Writing-Classes/midterm_unit5.html)
+      
+      
