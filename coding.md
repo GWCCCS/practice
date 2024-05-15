@@ -1,5 +1,7 @@
 # Coding Practice Links and Advice
 
+[](README.md)  
+
 Links to coding activities as well as a **suggested** minimum level of experience.  The minimum level of experience is just to inform you as to how frustrated you should feel :)
 
 Even people that have completed all of these courses can benefit from practicing earlier topics.
