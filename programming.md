@@ -12,7 +12,6 @@ Some of these links will be links to Repositories in GitHub and some will be lin
 ## Minimum Level of Experience - Java **I**/Intro to Programming (with me) & Some Github (See [Other Skills](otherskills.md))
 These can be done independently or collaboratively. Sometimes I or another student will have a solution committed under a different branch.
 - [ ] Astound - "Boggle" inspired game (As a text based interface) - [repo](https://github.com/GWCCCS/astound) - [discussion](https://discord.com/channels/1175834061500067840/1240378764710510653)
-    - The "robot" is a simulation of a real robot that builds a triangle using pieces taken from either the table or a bag. The steps the robot follows are based on an ordered list of instructions (algorithm) written by the user. The instructions are limited to basic vocabulary that is understood. 
     - ref: https://en.wikipedia.org/wiki/Boggle
 - [ ] "Advent" of Code 2023 - Day 1 - [repo](https://github.com/GWCCCS/2023AOC_D1) - [discussion](https://discord.com/channels/1175834061500067840/1191885881699741736)
 - [ ] "Advent" of Code 2023 - Day 2 - [repo](https://github.com/GWCCCS/AOC2023_D2) - [discussion](https://discord.com/channels/1175834061500067840/1191885881699741736)
