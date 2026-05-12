@@ -9,6 +9,9 @@ Even people that have completed all of these courses can benefit from practicing
 
 Some of these links will be links to Repositories in GitHub and some will be links to Projects in GitHub.
 
+## Minimum Level of Experience - Some Python 
+- [ ] Text Adventure Game (Python) - [repo](https://github.com/GWCCCS/text-adventure-engine)
+- [ ] Quiz Lit Game (Python) - [repo](https://github.com/GWCCCS/quiz-lit)
 ## Minimum Level of Experience - Java **I**/Intro to Programming (with me) & Some Github (See [Other Skills](otherskills.md))
 These can be done independently or collaboratively. Sometimes I or another student will have a solution committed under a different branch.
 - [ ] Astound - "Boggle" inspired game (As a text based interface) - [repo](https://github.com/GWCCCS/astound) - [discussion](https://discord.com/channels/1175834061500067840/1240378764710510653)
